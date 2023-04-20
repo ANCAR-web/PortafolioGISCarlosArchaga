@@ -1,0 +1,67 @@
+video{
+    position:fixed;
+      min-width: 100%;
+      min-width: 100%;
+      top:50%;
+      left:50%;
+      transform: translateX(-50%) translateY(-50%);
+      z-index: -1;
+    }
+
+.Home{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.redes{display: flex;
+       justify-content: center;
+       gap:25px;
+       font-size: 45px;
+       }
+.redes>.enlaces:nth-of-type(1){
+    color:rgb(22, 8, 226);
+}
+.redes>.enlaces:nth-of-type(2){
+    color:rgb(189, 7, 235);
+}
+.redes>.enlaces:nth-of-type(3){
+    color:rgb(8, 237, 240);
+}
+.redes>.enlaces:nth-of-type(4){
+    color:rgb(255, 255, 255);
+}
+
+.imagen{display: flex;
+        justify-content: center;}
+.imagen>img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.TitleGIS>h1{
+    text-align: center;
+    font-weight: bold;
+    color:rgb(224, 223, 223);
+    text-shadow: 0 0 6px yellow;
+}
+
+
+@media screen and (max-width:768px){
+.imagen{display: flex;
+        justify-content: center;}
+.imagen>img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.redes{display: flex;
+    justify-content: center;
+    gap:25px;
+    font-size: 20px;
+    }
+
+
+}
