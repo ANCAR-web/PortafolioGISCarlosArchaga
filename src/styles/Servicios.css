@@ -38,6 +38,9 @@
      display: flex;
      align-items: center;
      width: 400%;
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
      /*cambio se le da un nombre al cambio duracion y como se repetira*/
      animation: cambio 15s infinite;
      /*para direccionar la animacion del elemento al primer elemento*/
