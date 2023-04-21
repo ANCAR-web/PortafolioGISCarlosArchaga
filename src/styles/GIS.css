@@ -1,6 +1,8 @@
 .GIS{
     display: flex;
     flex-direction: column;
+    margin-bottom: 20px;
+ 
 }
 
 .GIS>h3{
@@ -20,10 +22,11 @@
     border-radius: 50%;
 }
 .GIS>img{
-    width: 600px;
-    height: 400px;
+    width: 400px;
+    height: 200px;
     display: block;
     margin: 15px auto;
+    object-fit: fill;
 }
 
 .GIS>p{
@@ -41,6 +44,7 @@
 .GIS>span>a{
     text-decoration: none;
     color:blue;
+    font-size: 20px;
 }
 
 .GIS>span>a:hover{

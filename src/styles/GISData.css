@@ -106,6 +106,7 @@
     .Testimonios{
         flex-direction: column;
         margin-top: 200px;
+        margin-bottom: 100px;
     }
 
     .left-t>span:nth-of-type(1){

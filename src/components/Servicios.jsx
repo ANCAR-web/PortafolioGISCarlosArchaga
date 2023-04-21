@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar';
 import Footer from './Footer';
-import Video from "../files/Fondo.mp4";
+import Video from "../files/Tierra-inicio.mp4";
 import { useState } from 'react';
 import ScrollToTop from './ScrollToTop';
 import InicioPage from './InicioPage';

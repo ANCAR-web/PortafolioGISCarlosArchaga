@@ -25,7 +25,7 @@ const SkillsGIS = [
     },
     {
         id:6,
-        imagem:GEE,
+        imagen:GEE,
         Desc:"Uso de la API de python y javascript para el uso de la libreria de ee de GEE para la obtencion de datos espectrales mundiales Landsat,Sentinel 1 y 2, MODIS, ASTER datos de elevacion, Climatologicos y variables ambientales"
     },
     {
@@ -45,7 +45,7 @@ const SkillsGIS = [
     },
     {
         id:10,
-        imagen:"https://geoinnova.org/wp-content/uploads/2021/08/POSTGIS-1-2.png",
+        imagen:"https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png",
         Desc:"Manejo en la administracion y consulta de tablas en lenguaje SQL con Postgis en el entorno de pgAdmin y QGIS como implementacion de consultas espaciales para analisis de datos para la toma de deciones en un entorno de almacenameinto de datos conexion a Geoserver y aplicaciones de mapeo libre como mapstore."
     },
     {

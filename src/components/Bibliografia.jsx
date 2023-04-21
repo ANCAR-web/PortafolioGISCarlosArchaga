@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Navbar';
 import { motion } from "framer-motion";
 import NumberCounter from 'number-counter';
-import Video1 from "../files/Fondo.mp4"
+import Video1 from "../files/Tierra-inicio.mp4"
 import Yo from "../files/Yo papusin.jpg";
 import "../styles/Bibliografia.css";
 import ScrollToTop from './ScrollToTop';

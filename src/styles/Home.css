@@ -20,24 +20,39 @@ video{
        font-size: 45px;
        }
 .redes>.enlaces:nth-of-type(1){
-    color:rgb(22, 8, 226);
+    color:rgb(255, 255, 255);
+}
+
+.redes>.enlaces:nth-of-type(1):hover{
+    color:yellow;
 }
 .redes>.enlaces:nth-of-type(2){
-    color:rgb(189, 7, 235);
+    color:rgb(255, 255, 255);
+}
+.redes>.enlaces:nth-of-type(2):hover{
+    color:yellow;
 }
 .redes>.enlaces:nth-of-type(3){
-    color:rgb(8, 237, 240);
+    color:rgb(255, 255, 255);
+}
+.redes>.enlaces:nth-of-type(3):hover{
+    color:yellow;
 }
 .redes>.enlaces:nth-of-type(4){
     color:rgb(255, 255, 255);
 }
 
+.redes>.enlaces:nth-of-type(4):hover{
+    color:yellow;
+}
+
 .imagen{display: flex;
         justify-content: center;}
 .imagen>img{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
+    object-fit: fill;
 }
 
 .TitleGIS>h1{

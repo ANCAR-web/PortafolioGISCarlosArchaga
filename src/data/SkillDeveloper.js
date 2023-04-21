@@ -1,7 +1,8 @@
+import docker from "../files/docker.png";
 const SkillDeveloper = [
     {
         id:1,
-        imagen:"https://blog.knoldus.com/wp-content/uploads/2020/05/Logo.png",
+        imagen:"https://logospng.org/download/javascript/logo-javascript-icon-1024.png",
         Desc:"HTML,CSS y Javascript los fundamentos del front end developer muy bien estructurados y definindos, con un expertis alto en cada una de estas tecnologias para crear paginas estaticas y dinamicas que consumen datos de APIS"
     },
     {
@@ -21,7 +22,7 @@ const SkillDeveloper = [
     },
     {
         id:5,
-        imagen:"https://w7.pngwing.com/pngs/931/328/png-transparent-rstudio-data-analysis-data-science-computer-software-others-blue-text-trademark-thumbnail.png",
+        imagen:"https://i.ibb.co/th9XGdq/1-Jh-R8-Yqr7g9kn-YVYVmd7q-Q.png",
         Desc:"Manejo del lenguaje de programacion R nivel intermedio, generacion de graficos y manejo de datos espaciales usando librerias especializadas en datos vectoriales y raster, usado como un software aplicado a la percepcion remota principalmente."
     },
     {
@@ -31,12 +32,12 @@ const SkillDeveloper = [
     },
     {
         id:7,
-        imagen:"https://pbs.twimg.com/profile_images/1510602617700950021/K4IoVubu_400x400.jpg",
+        imagen:"https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Leaflet_logo.svg/1200px-Leaflet_logo.svg.png",
         Desc:"Manejo de la libreria de mapeo web de javascript para crear mapas y aplicaciones inmersivas con la interaccion en el navegador"
     },
     {
         id:8,
-        imagen:"https://www.zend.com/sites/default/files/image/2019-09/logo-docker.jpg",
+        imagen:docker,
         Desc:"Docker tecnologia de contenedores para el despliegue de aplicaciones como Geoserver, Postgis, Apache y base de datos como MYSQL"
     }
 ];
