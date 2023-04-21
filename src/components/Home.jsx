@@ -24,7 +24,6 @@ const Home = () => {
   
   return (
     <div className='Home'>
-      <video src={Video} autoplay loop muted></video>
       <Navbar/>
       <ScrollToTop/>
       <Title texto ="Bienvenido :)"/>
