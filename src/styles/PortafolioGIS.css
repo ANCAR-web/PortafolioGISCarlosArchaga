@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.App-header>h2{
+  text-align: center;
+}
 .App-logo {
     height: 25vmin;
     pointer-events: none;
@@ -58,5 +62,8 @@
 @media screen and (max-width:768px){
   .listado>li{
    list-style: none;
+  }
+  .App-logo{
+    display: none;
   }
 }
