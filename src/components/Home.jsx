@@ -17,6 +17,8 @@ import GISData from './GISData';
 import Footer from './Footer';
 const Home = () => {
   const [inicio,setInicio] = useState(true);
+  const widthwindow = window.innerWidth<=768? true:false;
+
   setTimeout(()=>{
     setInicio(false)
   },2000)
@@ -26,7 +28,14 @@ const Home = () => {
     <div className='Home'>
       <Navbar/>
       <ScrollToTop/>
-      <Title texto ="Bienvenido :)"/>
+      {
+        widthwindow ? 
+        <div className='titulo'>
+          <h2>Soy analista y desarrollador GIS.</h2>
+        </div>:
+        <Title texto ="Bienvenido :)"/>
+      }
+      
       <div className='redes'>
         <a className='enlaces' href="https://www.facebook.com/osito.dobbie.9"><AiFillFacebook/></a>
         <a className='enlaces' href="https://www.instagram.com/carlos_cabina10/"><AiFillInstagram/></a>
