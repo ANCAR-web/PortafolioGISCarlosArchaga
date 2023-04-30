@@ -10,6 +10,8 @@ import ROMA from "../files/ROMA_IN_3.jpg";
 import Vista from "../files/ROMA_IN_7.jpg";
 import DEMO from "../files/DEMIWEB.png";
 import Galeria from "../files/GaleriaWEBGIS.png";
+import React from "../files/React-JS-Mapas.png";
+import LogoReact from "../files/descargaReact.png"
 
 const Portafolio = [ 
 {
@@ -80,6 +82,20 @@ const Portafolio = [
     ],
     descp:"Experiencia centralizada en ser un contenedor de aplicaciones de mapas con diferentes ejes tematicos.",
     enlace:"https://experience.arcgis.com/experience/5652891ed0934c18813ef487fa522ef0"
+},
+{
+    id:6,
+    proyectoweb:"Proyectos GIS Carlos Archaga",
+    title:"Galeria de mapas web con React JS",
+    categoria:"Developer GIS React JS",
+    imagen:React,
+    tecnologias:[
+        {img:LogoReact},
+        {img:ESRI},
+        {img:Experience},
+    ],
+    descp:"Galeria de mapas interactiva con mapas de publicaciones de mapas web",
+    enlace:"https://ancar-web.github.io/Mapas-React/"
 }
 ];
 
