@@ -34,6 +34,7 @@
     width: 800px;
     display: block;
     margin: 10px auto;
+    text-align: center;
 }
 
 .GIS>span{
@@ -60,9 +61,10 @@
     }
 
     .GIS>p{
-        color: white;
+        color: rgb(214, 225, 8);
         width:100%;
         display: block;
         margin: 10px auto;
+        text-align: center;
     }
 }
