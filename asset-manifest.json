@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PortafolioGISCarlosArchaga/static/css/main.83716d15.css",
-    "main.js": "/PortafolioGISCarlosArchaga/static/js/main.229fd40e.js",
+    "main.css": "/PortafolioGISCarlosArchaga/static/css/main.348a9d35.css",
+    "main.js": "/PortafolioGISCarlosArchaga/static/js/main.2b6400b4.js",
     "static/media/Mapa_Basico.png": "/PortafolioGISCarlosArchaga/static/media/Mapa_Basico.0d54e00fd7d1f331a6cd.png",
     "static/media/GIF.gif": "/PortafolioGISCarlosArchaga/static/media/GIF.08716ab617face92fb1a.gif",
     "static/media/Tierra-inicio.mp4": "/PortafolioGISCarlosArchaga/static/media/Tierra-inicio.c6043d6c61ec245407f5.mp4",
@@ -39,11 +39,11 @@
     "static/media/CSS_Logo.png": "/PortafolioGISCarlosArchaga/static/media/CSS_Logo.cc329bcb6af0353fd83c.png",
     "static/media/docker.png": "/PortafolioGISCarlosArchaga/static/media/docker.e0ba9d2386737b9f87c6.png",
     "index.html": "/PortafolioGISCarlosArchaga/index.html",
-    "main.83716d15.css.map": "/PortafolioGISCarlosArchaga/static/css/main.83716d15.css.map",
-    "main.229fd40e.js.map": "/PortafolioGISCarlosArchaga/static/js/main.229fd40e.js.map"
+    "main.348a9d35.css.map": "/PortafolioGISCarlosArchaga/static/css/main.348a9d35.css.map",
+    "main.2b6400b4.js.map": "/PortafolioGISCarlosArchaga/static/js/main.2b6400b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.83716d15.css",
-    "static/js/main.229fd40e.js"
+    "static/css/main.348a9d35.css",
+    "static/js/main.2b6400b4.js"
   ]
 }
