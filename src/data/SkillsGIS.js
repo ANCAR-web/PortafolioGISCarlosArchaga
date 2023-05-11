@@ -2,21 +2,21 @@ import GEE from "../files/GEE.jpg";
 const SkillsGIS = [
     {id:1,
      imagen:"https://www.aeroterra.com/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png",
-     Desc:"Arcgis Pro manejo y digitalizacion de datos espaciales, Model Builder, Spatial Analysis, Parcel Fabric, Map series, Geoestadistica wizard,y la libreria de python para arcgis Arcpy"},
+     Desc:"Arcgis Pro manejo y digitalizacion de datos espaciales, Model Builder, Spatial Analysis, Parcel Fabric, Map series, Geoestadistica wizard, Network Analysis y la libreria de python para arcgis Arcpy"},
     {
         id:2,
         imagen:"https://qgisblog.files.wordpress.com/2016/12/qgis-logo_anita02.png",
-        Desc:"QGIS manejo y digitalizacion de datos espaciales, Semi automatic pluggin, Qgis web, acotado con expresiones ,Postgis y Libreria PYQGIS y PYQT de Python para Qgis."
+        Desc:"QGIS manejo y digitalizacion de datos espaciales, Semi automatic pluggin, Qgis web, acotado con expresiones ,Postgis, Libreria PYQGIS y PYQT de Python para Qgis."
     },
     {
         id:3,
         imagen:"https://elvuelodeldrone.com/wp-content/uploads/2020/11/Pix4D-Mapper-logo-800x600.png",
-        Desc:"Manejo del software mas famoso de procesamiento fotogametrico productos resultantes como ortofotomosaico con puntos de control, DEM, Modelo de terreno y superficie."
+        Desc:"Manejo del software del mejor software de procesamiento fotogametrico productos resultantes como ortofotomosaico con puntos de control, Nube de puntos densa clasificada, Modelo de terreno y superficie."
     },
     {
         id:4,
         imagen:"https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png",
-        Desc:"Manejo de Autocad, dibujo en 2D, digitalizacion a partir de imagenes de alta resolucion, prsentacion de planos y manejo de dibujo arquitectonico en nivel medio, uso de CIVIL CAD tambien."
+        Desc:"Manejo de Autocad, dibujo en 2D, digitalizacion a partir de imagenes de alta resolucion, presentacion de planos y manejo de dibujo arquitectonico en nivel medio, uso de CIVIL CAD tambien."
     },
     {
         id:5,
@@ -41,12 +41,12 @@ const SkillsGIS = [
     {
         id:9,
         imagen:"https://the-mhd.com/wp-content/uploads/2022/10/index.png",
-        Desc:"Manejo del software open source de procesamiento fotogametrico productos resultantes como ortofotomosaico con puntos de control, DEM, Modelo de terreno y superficie."
+        Desc:"Manejo del software open source de procesamiento fotogametrico productos resultantes como ortofotomosaico con puntos de control, Modelo de terreno y superficie."
     },
     {
         id:10,
         imagen:"https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png",
-        Desc:"Manejo en la administracion y consulta de tablas en lenguaje SQL con Postgis en el entorno de pgAdmin y QGIS como implementacion de consultas espaciales para analisis de datos para la toma de deciones en un entorno de almacenameinto de datos conexion a Geoserver y aplicaciones de mapeo libre como mapstore."
+        Desc:"Manejo en la administracion y consulta de tablas en lenguaje SQL con Postgis en el entorno de pgAdmin y QGIS como implementacion de consultas espaciales.Conexion a Geoserver y aplicaciones de mapeo libre como mapstore."
     },
     {
         id:11,
@@ -56,7 +56,7 @@ const SkillsGIS = [
     {
         id:12,
         imagen:"https://www.telematica.com.pe/wp-content/uploads/2021/06/aplicaciones-ArcGIS-disponibles.webp",
-        Desc:"Experto en la administracion de la plataforma Arcgis Online y despliegue de sus aplicaciones, nivel de usuario administrador de Arcgis for portal."
+        Desc:"Experto en la administracion de la plataforma Arcgis Online y despliegue de sus aplicaciones, nivel de usuario administrador de cuenta organizacion."
     }
 ];
 
