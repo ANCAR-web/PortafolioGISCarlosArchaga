@@ -5,23 +5,22 @@ const Productos = [
     {
     image: imagen1,
     review:
-      "Producto patrimonio AMDC levantamiento y generacion de predios de areas verdes, edificios historicos.",
-    name: 'Edificios historicos plano',
+      "Producto patrimonio AMDC levantamiento y generación de predios de áreas verdes, edificios históricos.",
+    name: 'Edificios históricos plano.',
     status : 'Catastro'
     },
     {
     image: image2,
-    review:
-    "Mapa de temperatura maxima considerando la elevacion usando como referencia un DEM para considerar como aumenta la temperatura con la altitud",
-    name:'Mapa de temperatura maxima',
+    review:"Mapa de temperatura máxima considerando la elevación usando como referencia un DEM para considerar como aumenta la temperatura con la altitud.",
+    name:'Mapa de temperatura máxima',
     status:'Geoestadistica'
     },
     {
     image: imagen3,
     review:
-          "Dashboard medicion de datos en tiempo real de las estaciones hidrometeoroligicas en la zona valle de sula",
+          "Dashboard medición de datos en tiempo real de las estaciones hidrometeorológicas en la zona valle de sula.",
     name: 'Dashboard ROMA-IN',
-    status : 'Gestion de riesgos'
+    status : 'Gestión de riesgos.'
     }
 ]
 

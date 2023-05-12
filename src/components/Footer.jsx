@@ -14,7 +14,7 @@ const Footer = () => {
             <p>Analista y desarrollador front GIS.</p>
         </div>
         <div class="box">
-            <h3>Siguenos en: </h3>
+            <h3>Mis redes sociales: </h3>
             <a href="https://www.facebook.com/osito.dobbie.9"><AiFillFacebook/></a>
             <a href="https://www.instagram.com/carlos_cabina10/"><AiFillInstagram/></a>
             <a href="https://www.linkedin.com/in/carlos-antonio-archaga-martinez-b7a494171/"><AiFillLinkedin/></a>

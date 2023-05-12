@@ -5,9 +5,8 @@ import InicioPage from "./InicioPage";
 import Navbar from './Navbar';
 import ScrollToTop from "./ScrollToTop";
 import Title from './Title';
-import Video from "../files/Tierra-inicio.mp4"
 import { motion } from "framer-motion";
-import Foto from "../files/Yo2.jpg";
+import Foto from "../files/Mi_FOTO_PAPU.png";
 import {AiFillFacebook} from "react-icons/ai";
 import {AiFillInstagram} from "react-icons/ai";
 import {AiFillLinkedin} from "react-icons/ai";
@@ -50,7 +49,7 @@ const Home = () => {
         <img src={Foto} alt="Mi foto" />
       </motion.div>
       <div className='TitleGIS'>
-        <h1>Sistemas de informacion geografica.</h1>
+        <h1>Sistemas de información geográfica.</h1>
       </div>
       <Carrusel/>
       <GISData 

@@ -66,4 +66,11 @@
   .App-logo{
     display: none;
   }
+
+  .listado>li{
+    list-style: none;
+    display: flex;
+    text-align: center;
+   
+  }
 }

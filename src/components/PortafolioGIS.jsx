@@ -15,6 +15,7 @@ const PortafolioGIS = () => {
     setSearch({filter:e.target.value});};
   const filtrar = search.get("filter") ?? " ";
   return (
+    
     <div>
       <Navbar/>
       <ScrollToTop/>
